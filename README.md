@@ -1,16 +1,26 @@
-## Hi there 👋
+# **Hi 👋, I'm Salma Mohamed**  
 
-<!--
-**Salma2018170/salma2018170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **A passionate Software Development Engineer in Test (SDET) With 2 years of experience** in software testing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **👩‍💻 About Me**  
+- **Name:** Salma Mohamed  
+- **Education:** B.Sc. in Computer and Information Sciences, Ain Shams University, 2022  
+- **Certifications:**  
+  - - ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-red) Agile Tester, Mobile Tester, Foundation Level   
+  - Currently pursuing CTAL-TAE (Certified Tester Advanced Level Test Automation Engineering)  
+- **Current Role:** Automation Test Engineer at IBM  
+- **Interests:** Automation Testing, CI/CD, and exploring new testing tools and frameworks.  
+
+---
+## **🔧 Skills and Tools**  
+- **Automation Testing:** Selenium, TestNG, UFT, Maven, Cucumber
+- **Programming Languages:** Java, C++ (Basic)  
+- **Performance Testing:** JMeter (Learning)  
+- **CI/CD:** GitLab (Basic knowledge)  
+- **Defect Tracking:** ALM, Jira  
+- **Other Tools:** IntelliJ IDEA, VS code, Postman  
+
+---
+
