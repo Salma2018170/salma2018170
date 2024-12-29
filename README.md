@@ -24,6 +24,6 @@
 
 ---
 ## **🌟 Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Mohamed-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/salma-mohamed-29b4141a1))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Mohamed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salma-mohamed-29b4141a1)  
 [![GitHub](https://img.shields.io/badge/GitHub-SalmaMohamed-black?style=for-the-badge&logo=github)](https://github.com/Salma2018170)  
 
