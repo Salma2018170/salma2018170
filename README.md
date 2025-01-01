@@ -31,4 +31,3 @@
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=salma2018170&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
