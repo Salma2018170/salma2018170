@@ -1,6 +1,6 @@
 # **Hi 👋, I'm Salma Mohamed**  
 
-### **A passionate Software Development Engineer in Test (SDET) With +2 years of experience** in software testing.
+### **A passionate Software Development Engineer in Test (SDET) With +3 years of experience** in software testing.
 
 ---
 
